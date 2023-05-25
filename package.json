@@ -1,0 +1,24 @@
+{
+    "name":"calculadora_us",
+    "version": "1.0",
+    "description": "Taller calculadora con APIs",
+    "main": "index.js",
+    "scripts":{
+        "test": "jest"
+    },
+
+    "keywords": [
+        "Calculadora",
+        "API"
+    ],
+        
+    "author": "Olga Koevesdy",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "29.5.0"
+    },
+
+    "dependencies": {
+        "express": "4.18.2"
+    }
+}
